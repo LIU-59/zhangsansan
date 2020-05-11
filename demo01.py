@@ -20,7 +20,12 @@ print(2>3)
 a = "张三"  # 把张三的值赋值给了名字叫a这个变量
 print(a)
 """
-
+print(2333) #整数
+print(2.33) #小数
+print(True) #布尔值 Ture False
+print(())  #元组
+print([]) #数组
+print({}) #字典
 
 # #数据格式的装换
 # c = type(2333)
